@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Mr. Robot Quotes',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: 'MrRobot',
       ),
       home: HomeScreen(),
     );
